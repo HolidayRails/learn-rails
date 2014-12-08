@@ -1,8 +1,6 @@
-Learning Rails
+Holiday Rails
 
 ==
 
-Learning Rails 
-with a tutorial 
-from Daniel Kehoe 
-and the RailsApps project.
+learning rails 
+with a tutorial from Daniel Kehoe and the RailsApps project.
