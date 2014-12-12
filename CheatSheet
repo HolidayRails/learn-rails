@@ -1,0 +1,25 @@
+Cheat sheet...
+
+#check versions of things
+$ ruby -v
+$ rails -v
+$ rvm list
+$ rvm gemset list
+
+#toggle between gemsets
+$ rvm gemset use global
+$ rvm gemset use default
+$ rvm gemset use learn-rails
+
+#include hidden files in list:
+$ ls -1pa
+
+There are three forms of the git add command:
+• git add foo.txt adds a file named foo.txt
+• git add . adds all new files and changed files, except deleted files
+• git add -A adds everything, including deletions
+
+View project history
+$ git log
+$ git log --oneline
+
