@@ -2,4 +2,4 @@ Holiday Rails
 
 ==
 
-using this fork with Cloud9 (when at work without my mac)
+Eventually will be a website for Holiday Rails -- now working through the Daniel Kehoe tutorial
