@@ -2,5 +2,4 @@ Holiday Rails
 
 ==
 
-learning rails 
-with a tutorial from Daniel Kehoe and the RailsApps project.
+using this fork with Cloud9 (when at work without my mac)
