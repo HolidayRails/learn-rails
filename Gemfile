@@ -38,6 +38,9 @@ gem 'spring',        group: :development
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
+#add as alternative to setting environmental variables in the shell.
+gem 'figaro'
+
 # add per error message
 gem 'nokogiri', '~> 1.6.5'
 
